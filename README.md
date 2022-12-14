@@ -33,9 +33,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet-Clinic Database] <a name="about-project"></a>
+# 📖 [Clinic Database] <a name="about-project"></a>
 
-**[Vet-Clinic Database]** is a beginner PostgreSql project where I created a database and then filled it table data. You can create Table with schema and then insert data into the table with the methods mentioned and then get the specific data with multiple queries.
+**[Clinic Database]** is a beginner PostgreSql project where I created a database and then filled it table data. You can create Table with schema and then insert data into the table with the methods mentioned and then get the specific data with multiple queries.
 
 ### Database Schema Diagram vet-clinic database
 
