@@ -39,7 +39,7 @@
 
 ### Database Schema Diagram vet-clinic database
 
-![drawSQL-export-2022-12-13_15_42](https://user-images.githubusercontent.com/96683843/207297192-fe604013-69bf-4763-9c6f-7c19d0f54303.png)
+![Clinic diagram](https://github.com/microverseinc/curriculum-databases/raw/main/db-structure/images/clinic_diagram.png)
 
 
 
